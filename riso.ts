@@ -4,7 +4,7 @@ import {encodeAcb} from '@atesgoral/acb';
 
 const book: ColorBook = {
     id: 194629,
-    title: 'RISO Inks',
+    title: 'RISO Inks v1.0',
     description: 'Ink Colors available for Risograph ^R Digital Duplicators.',
     colorNamePrefix: '',
     colorNamePostfix: '',
