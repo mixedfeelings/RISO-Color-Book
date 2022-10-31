@@ -91,7 +91,6 @@ const book: ColorBook = {
         {name: 'Fluorescent Yellow', code: 'R_FLOY', components: [235, 255, 143]},
         {name: 'Fluorescent Red', code: 'R_FLOR', components: [255, 107, 137]},
         {name: 'Fluorescent Green', code: 'R_FLOG', components: [125, 235, 146]},
-        {name: 'Fluorescent Green', code: 'R_FLOG', components: [125, 235, 146]},
       ],
   };
 
