@@ -77,7 +77,7 @@ const book: ColorBook = {
         {name: 'Bright Olive Green', code: 'R_BOGR', components: [170, 148, 46]},
         {name: 'Bright Gold', code: 'R_BRGO', components: [186, 128, 50]},
         {name: 'Copper', code: 'R_COPP', components: [189, 100, 57]},
-        {name: 'Mahogony', code: 'R_MAHO', components: [152, 100, 93]},
+        {name: 'Mahogany', code: 'R_MAHO', components: [152, 100, 93]},
         {name: 'Bisque', code: 'R_BISQ', components: [255, 208, 178]},
         {name: 'Bubble Gum', code: 'R_BUBG', components: [246, 126, 168]},
         {name: 'Light Mauve', code: 'R_LTMV', components: [230, 181, 201]},
